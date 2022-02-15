@@ -6,8 +6,13 @@ description: This resource contains a vocabulary sheet with terms and concepts f
   energy efficiency models, models involving reproductive and social behaviors relating
   to food acquisition, and models involving behaviors relating to social cooperation
   within and between groups.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-987-human-origins-and-evolution-spring-2006/3cf8c188293e38774668fbb87a875f9d_lecture09.pdf
+file: /media/courses/3-987-human-origins-and-evolution-spring-2006/3cf8c188293e38774668fbb87a875f9d_lecture09.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture09.pdf
 uid: 3cf8c188-293e-3877-4668-fbb87a875f9d
