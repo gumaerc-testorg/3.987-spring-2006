@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: dea6c2ba-b8e0-f6a2-ae67-4e7207e7c579
 resourcetype: Document
 title: bone_review.pdf
 uid: 4c8d8ee2-d9db-4b50-0156-978eff4d7a6a

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 808a2eb8-5ced-b98b-ce43-1c942340485b
 resourcetype: Document
 title: outline.pdf
 uid: af3c71f3-fc0b-072a-2432-c23248e380e0
