@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about required readings, and includes
+  a schedule of lecture sessions with associated readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
