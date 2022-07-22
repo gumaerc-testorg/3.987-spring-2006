@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section presents a set of vocabulary sheets that outline key terms
+  for the course, concepts and characters covered in lectures, and assorted handouts.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: cc8aef1c-77c8-86be-9a6a-e17f7d7d1295
 ---
 
 This page presents a set of vocabulary sheets that outline the key terms, concepts and characters covered in lectures, plus assorted handouts. Note that some vocabulary sheets are used for several lectures in a row.
 
-FYI sheets ([PDF]({{< baseurl >}}/resources/compiled_fyi)) (This document has a compiled list of emailed handouts and communications that were circulated to the students before or after lectures as background and/or follow-up information on questions and points raised in specific lectures.)
+FYI sheets ({{% resource_link 68d29690-246a-b64a-9864-83c28bddf84d "PDF" %}}) (This document has a compiled list of emailed handouts and communications that were circulated to the students before or after lectures as background and/or follow-up information on questions and points raised in specific lectures.)
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -37,7 +42,7 @@ Introduction: The Search for Human Ancestors, Approaches to the Study of Human E
 {{< tdopen >}}
 
 
-Sheet 1 ([PDF]({{< baseurl >}}/resources/lecture01_02))
+Sheet 1 ({{% resource_link 2d64e016-4231-fdb8-0e49-ebe41dc0731d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -69,7 +74,7 @@ Evolutionary Processes and Time Scales
 Modern Primates and their Relevance to Understanding Human Origins
 {{< tdclose >}}
 {{< tdopen >}}
-Sheet 2 ([PDF]({{< baseurl >}}/resources/lecture05))
+Sheet 2 ({{% resource_link a069e168-fd54-f74d-ea0d-37943f2ae17d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -84,7 +89,7 @@ Sheet 2 ([PDF]({{< baseurl >}}/resources/lecture05))
 Tertiary Higher Primates: Our Pre-Hominid Predecessors
 {{< tdclose >}}
 {{< tdopen >}}
-Sheet 3 ([PDF]({{< baseurl >}}/resources/lecture06))
+Sheet 3 ({{% resource_link 7a455bfc-408e-2289-07ce-2a59d682fe10 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -99,7 +104,7 @@ Sheet 3 ([PDF]({{< baseurl >}}/resources/lecture06))
 Earliest Hominids: The Australopithecines and Affines
 {{< tdclose >}}
 {{< tdopen >}}
-Sheet 4 ([PDF]({{< baseurl >}}/resources/lecture07_09))
+Sheet 4 ({{% resource_link 2e8442a8-ff95-1604-6a38-d1da9338f0eb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -118,7 +123,7 @@ Early Hominids - Variations and Taxonomy - Presentations
 
 Sheet 4 (cont.)
 
-Sheet 5 ([PDF]({{< baseurl >}}/resources/lecture09))
+Sheet 5 ({{% resource_link 3cf8c188-293e-3877-4668-fbb87a875f9d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -150,7 +155,7 @@ Hominid/Human Origins: Hypotheses and Speculation
 Early _Homo_: How Should _Homo_ Be Defined?
 {{< tdclose >}}
 {{< tdopen >}}
-Sheet 6 ([PDF]({{< baseurl >}}/resources/lecture11))
+Sheet 6 ({{% resource_link ae3c4e13-5c88-fde8-6bea-c30770bd0f83 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -165,12 +170,12 @@ Sheet 6 ([PDF]({{< baseurl >}}/resources/lecture11))
 The Archaeology of the Early Hominids I: Olduvai Gorge and Koobi Fora
 {{< tdclose >}}
 {{< tdopen >}}
-Sheet 7 ([PDF]({{< baseurl >}}/resources/lecture12_14))
+Sheet 7 ({{% resource_link f81229e2-9248-9a6a-225b-f7cdb22b7c77 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Handout 1 ([PDF]({{< baseurl >}}/resources/handout12))
+Handout 1 ({{% resource_link 8c26ee36-79b1-ea7f-a306-3fb87d69ff5e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -214,10 +219,10 @@ Midterm Exam
 _Homo ergaster_ and _erectus_: Emerging Modern Morphology
 {{< tdclose >}}
 {{< tdopen >}}
-Sheet 8 ([PDF]({{< baseurl >}}/resources/lecture16_17))
+Sheet 8 ({{% resource_link c1676c24-e33a-ef8d-d3d1-061cd4e26bd2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Handout 2 ([PDF]({{< baseurl >}}/resources/handout16_17))
+Handout 2 ({{% resource_link 92098b87-92c6-4fde-f9c2-ce69b853dd62 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,7 +241,7 @@ Sheet 8 (cont.)
 
 Handout 2 (cont.)
 
-Handout 3 ([PDF]({{< baseurl >}}/resources/handout17))
+Handout 3 ({{% resource_link 23865647-fd79-be60-e13c-631260cf66ac "PDF" %}})
 
 
 {{< tdclose >}}
@@ -250,7 +255,7 @@ Handout 3 ([PDF]({{< baseurl >}}/resources/handout17))
 _Homo heidelbergensis_ and _neanderthalensis_ or Early "Archaic" _H. sapiens_?
 {{< tdclose >}}
 {{< tdopen >}}
-Sheet 9 ([PDF]({{< baseurl >}}/resources/lecture18_19))
+Sheet 9 ({{% resource_link 8a216ba1-021e-bf8c-fd88-0126f13fcb05 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -269,12 +274,12 @@ Sheet 9 ([PDF]({{< baseurl >}}/resources/lecture18_19))
 
 Sheet 9 (cont.)
 
-Sheet 10 ([PDF]({{< baseurl >}}/resources/lecture19_20))
+Sheet 10 ({{% resource_link c573fd34-de9a-4954-fb9b-0c990d7eb48a "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Handout 4 ([PDF]({{< baseurl >}}/resources/handout19_20))
+Handout 4 ({{% resource_link 7a97a27e-be75-c131-0ac2-b383d0acb970 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -286,14 +291,14 @@ Handout 4 ([PDF]({{< baseurl >}}/resources/handout19_20))
 Origin of Modern _Homo sapiens_ : Morphology and Genetic Evidence
 {{< tdclose >}}
 {{< tdopen >}}
-Sheet 11 ([PDF]({{< baseurl >}}/resources/lecture21_22))
+Sheet 11 ({{% resource_link 66936012-72be-e862-b1aa-81fd37a28f4e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Handout 5 ([PDF]({{< baseurl >}}/resources/handout21a))
+Handout 5 ({{% resource_link 09ff8291-d938-5040-481e-99950781e0f9 "PDF" %}})
 
-Handout 6 ([PDF]({{< baseurl >}}/resources/handout21b))
+Handout 6 ({{% resource_link bca2fc5a-c41d-e0e3-c0be-518c09414f65 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -311,7 +316,7 @@ Modern _Homo sapiens_ I: Cultural Diversity Becomes the Norm
 
 Sheet 11 (cont.)
 
-Sheet 12 ([PDF]({{< baseurl >}}/resources/lecture22))
+Sheet 12 ({{% resource_link 51ea886a-ea50-481f-28da-3dd07c53adf6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -328,7 +333,7 @@ Sheet 12 ([PDF]({{< baseurl >}}/resources/lecture22))
 Modern _Homo sapiens_ II: To the Threshold of Civilization
 {{< tdclose >}}
 {{< tdopen >}}
-Sheet 13 ([PDF]({{< baseurl >}}/resources/lecture24_25))
+Sheet 13 ({{% resource_link 916b1452-8669-b6e4-c107-78133ea3b2ed "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, the
+  scope of the subject, subject mechanics, overall weight of assignments, and the
+  schedule of course topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3e3a11c5-c8d2-e6af-d466-07d000b737c6
 ---
