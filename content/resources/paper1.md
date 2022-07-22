@@ -6,6 +6,7 @@ file: /courses/3-987-human-origins-and-evolution-spring-2006/caf8888ac5424ddc925
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: paper1.pdf
 uid: caf8888a-c542-4ddc-9250-1041680a8beb
 ---
 This resource contains a reading response assignment on chimp and bonobo behavior and its relevance to interpreting early hominid behavior.
-

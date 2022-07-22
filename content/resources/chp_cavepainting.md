@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_cavepainting.jpg
 uid: 5d192ce8-8fe7-7b58-e368-cb6e96fc44e6
 ---
 Prehistoric cave paintings in Altamira, Spain. (Photograph taken from Wikipedia.)
-

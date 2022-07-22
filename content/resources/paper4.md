@@ -6,6 +6,7 @@ file: /courses/3-987-human-origins-and-evolution-spring-2006/ef6ba42e46c3d3a8c99
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: paper4.pdf
 uid: ef6ba42e-46c3-d3a8-c990-c209f8c4f41e
 ---
 This resource contains a reading response assignment on the advantages and disadvantages of becoming an agriculturalist.
-

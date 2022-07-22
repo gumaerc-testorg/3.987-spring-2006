@@ -6,6 +6,7 @@ file: /courses/3-987-human-origins-and-evolution-spring-2006/a069e168fd54f74dea0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture05.pdf
 uid: a069e168-fd54-f74d-ea0d-37943f2ae17d
 ---
 This resource contains a vocabulary sheet with terms and concepts from the lectures, and a few problems and issues for consideration.
-
