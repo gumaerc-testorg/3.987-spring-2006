@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains a vocabulary sheet with terms and concepts from
   the lectures.
 file: /courses/3-987-human-origins-and-evolution-spring-2006/51ea886aea50481f28da3dd07c53adf6_lecture22.pdf
+file_size: 41416
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

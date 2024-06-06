@@ -7,6 +7,7 @@ description: This resource contains a vocabulary sheet with terms and concepts f
   to food acquisition, and models involving behaviors relating to social cooperation
   within and between groups.
 file: /courses/3-987-human-origins-and-evolution-spring-2006/3cf8c188293e38774668fbb87a875f9d_lecture09.pdf
+file_size: 66637
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
