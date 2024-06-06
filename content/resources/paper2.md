@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains a reading response assignment on contrasting
   views of the origins of humans: Isaac, Lovejoy and Bingham.'
 file: /courses/3-987-human-origins-and-evolution-spring-2006/e7c229b4864832268a9da6baa2f77fc2_paper2.pdf
+file_size: 56569
 file_type: application/pdf
 learning_resource_types:
 - Assignments
