@@ -7,6 +7,7 @@ description: This resource contains a lecture handout on evidence for the Neande
   diet, evidence for interpersonal violence among Neandertals, evidence for Neandertal
   cannibalism, and evidence for the Neandertal genetic contribution to modern humans.
 file: /courses/3-987-human-origins-and-evolution-spring-2006/7a97a27ebe75c1310ac2b383d0acb970_handout19_20.pdf
+file_size: 29607
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

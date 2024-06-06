@@ -4,6 +4,7 @@ description: This resource contains a compiled list of emailed handouts and comm
   that were circulated to the students before or after lectures as background and/or
   follow-up information on questions and points raised in specific lectures.
 file: /courses/3-987-human-origins-and-evolution-spring-2006/68d29690246ab64a986483c28bddf84d_compiled_fyi.pdf
+file_size: 240355
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

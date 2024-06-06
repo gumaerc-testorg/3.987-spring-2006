@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information on readings.
 file: /courses/3-987-human-origins-and-evolution-spring-2006/8909e1034082a37c206e5643781e1af0_fyi08.pdf
+file_size: 14777
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

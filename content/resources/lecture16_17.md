@@ -4,6 +4,7 @@ description: This resource contains a vocabulary sheet with terms and concepts f
   the lectures, a few problems and issues for consideration, and additional notes
   on skulls of Homo ergaster from Dmanisi.
 file: /courses/3-987-human-origins-and-evolution-spring-2006/c1676c24e33aef8dd3d1061cd4e26bd2_lecture16_17.pdf
+file_size: 68480
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

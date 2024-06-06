@@ -3,6 +3,7 @@ content_type: resource
 description: This file is a resource which contains information on Bibliographic referencing
   and citations.
 file: /courses/3-987-human-origins-and-evolution-spring-2006/aa6d4c12dc9d3b5eb5dcb170a5ff3c39_guide_for_refs.pdf
+file_size: 14614
 file_type: application/pdf
 learning_resource_types:
 - Assignments
