@@ -2,7 +2,7 @@
 content_type: resource
 description: This file is a resource which contains information on Contrasting views
   of the origins of humans.
-file: /courses/3-987-human-origins-and-evolution-spring-2006/53ae05f5fd5907a1345e7aa54c43809f_read_response2.pdf
+file: /ol-ocw-studio-app/courses/3-987-human-origins-and-evolution-spring-2006/53ae05f5fd5907a1345e7aa54c43809f_read_response2.pdf
 file_size: 15462
 file_type: application/pdf
 learning_resource_types:

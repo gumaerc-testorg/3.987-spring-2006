@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a vocabulary sheet with terms and concepts from
   the lectures, and a few problems and issues for consideration.
-file: /courses/3-987-human-origins-and-evolution-spring-2006/2e8442a8ff9516046a38d1da9338f0eb_lecture07_09.pdf
+file: /ol-ocw-studio-app/courses/3-987-human-origins-and-evolution-spring-2006/2e8442a8ff9516046a38d1da9338f0eb_lecture07_09.pdf
 file_size: 57062
 file_type: application/pdf
 learning_resource_types:

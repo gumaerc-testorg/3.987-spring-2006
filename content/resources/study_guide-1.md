@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a study guide for the Midterm exam, including
   a review and study questions.
-file: /courses/3-987-human-origins-and-evolution-spring-2006/5a90d8438559513d48dc0646964124f5_study_guide.pdf
+file: /ol-ocw-studio-app/courses/3-987-human-origins-and-evolution-spring-2006/5a90d8438559513d48dc0646964124f5_study_guide.pdf
 file_size: 26001
 file_type: application/pdf
 learning_resource_types: []
