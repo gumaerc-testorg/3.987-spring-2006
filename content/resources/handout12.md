@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains a lecture handout on methods of fracturing and
   shaping of stone for artifact manufacture, materials suitable for flaking by conchoidal
   fracture, and tool types characteristic of the Oldowan industrial complex.
-file: /ol-ocw-studio-app/courses/3-987-human-origins-and-evolution-spring-2006/8c26ee3679b1ea7fa3063fb87d69ff5e_handout12.pdf
+file: /courses/3-987-human-origins-and-evolution-spring-2006/8c26ee3679b1ea7fa3063fb87d69ff5e_handout12.pdf
 file_size: 12499
 file_type: application/pdf
 learning_resource_types:

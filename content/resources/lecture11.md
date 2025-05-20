@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains a vocabulary sheet with terms and concepts from
   the lectures, notes on historical perspectives of the definition of the genus Homo,
   and a few problems and issues for consideration.
-file: /ol-ocw-studio-app/courses/3-987-human-origins-and-evolution-spring-2006/ae3c4e135c88fde86beac30770bd0f83_lecture11.pdf
+file: /courses/3-987-human-origins-and-evolution-spring-2006/ae3c4e135c88fde86beac30770bd0f83_lecture11.pdf
 file_size: 114625
 file_type: application/pdf
 learning_resource_types:

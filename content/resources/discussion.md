@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains background information for a discussion project
   on early hominid (hominin) variation and species identification.
-file: /ol-ocw-studio-app/courses/3-987-human-origins-and-evolution-spring-2006/aa9397b07f30965bbb04de8303726318_discussion.pdf
+file: /courses/3-987-human-origins-and-evolution-spring-2006/aa9397b07f30965bbb04de8303726318_discussion.pdf
 file_size: 68384
 file_type: application/pdf
 learning_resource_types:

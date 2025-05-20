@@ -6,7 +6,7 @@ description: This resource contains a lecture handout on evidence for the Neande
   manipulatory abilities between Neandertals and moderns, evidence for Neandertal
   diet, evidence for interpersonal violence among Neandertals, evidence for Neandertal
   cannibalism, and evidence for the Neandertal genetic contribution to modern humans.
-file: /ol-ocw-studio-app/courses/3-987-human-origins-and-evolution-spring-2006/7a97a27ebe75c1310ac2b383d0acb970_handout19_20.pdf
+file: /courses/3-987-human-origins-and-evolution-spring-2006/7a97a27ebe75c1310ac2b383d0acb970_handout19_20.pdf
 file_size: 29607
 file_type: application/pdf
 learning_resource_types:

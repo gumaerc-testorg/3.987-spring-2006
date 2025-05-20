@@ -2,7 +2,7 @@
 content_type: resource
 description: Prehistoric cave paintings in Altamira, Spain. (Photograph taken from
   Wikipedia.)
-file: /ol-ocw-studio-app/courses/3-987-human-origins-and-evolution-spring-2006/5d192ce88fe77b58e368cb6e96fc44e6_chp_cavepainting.jpg
+file: /courses/3-987-human-origins-and-evolution-spring-2006/5d192ce88fe77b58e368cb6e96fc44e6_chp_cavepainting.jpg
 file_size: 65330
 file_type: image/jpeg
 image_metadata:

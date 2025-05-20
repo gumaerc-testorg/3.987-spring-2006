@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains study material about the bones of the human body,
   features or landmarks on bones, and dental formulas.
-file: /ol-ocw-studio-app/courses/3-987-human-origins-and-evolution-spring-2006/4c8d8ee2d9db4b500156978eff4d7a6a_bone_review.pdf
+file: /courses/3-987-human-origins-and-evolution-spring-2006/4c8d8ee2d9db4b500156978eff4d7a6a_bone_review.pdf
 file_size: 25566
 file_type: application/pdf
 learning_resource_types: []

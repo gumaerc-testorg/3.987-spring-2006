@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a reading response assignment on contrasting views
   of the behavior of Neandertals.
-file: /ol-ocw-studio-app/courses/3-987-human-origins-and-evolution-spring-2006/c426e70e9185f550f9ee7636d2018bd7_paper3.pdf
+file: /courses/3-987-human-origins-and-evolution-spring-2006/c426e70e9185f550f9ee7636d2018bd7_paper3.pdf
 file_size: 56991
 file_type: application/pdf
 learning_resource_types:
