@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains guidelines for bibliographic referencing and citations.
-file: /ol-ocw-studio-app/courses/3-987-human-origins-and-evolution-spring-2006/d7d7a8ba977feec821d8da2b185db700_guidelines_refs.pdf
+file: /courses/3-987-human-origins-and-evolution-spring-2006/d7d7a8ba977feec821d8da2b185db700_guidelines_refs.pdf
 file_size: 14614
 file_type: application/pdf
 learning_resource_types:

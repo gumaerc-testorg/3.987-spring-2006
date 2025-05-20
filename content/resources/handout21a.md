@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a lecture handout on major changes across the
   Middle / Upper Palaeolithic boundary.
-file: /ol-ocw-studio-app/courses/3-987-human-origins-and-evolution-spring-2006/09ff8291d9385040481e99950781e0f9_handout21a.pdf
+file: /courses/3-987-human-origins-and-evolution-spring-2006/09ff8291d9385040481e99950781e0f9_handout21a.pdf
 file_size: 12466
 file_type: application/pdf
 learning_resource_types: []
